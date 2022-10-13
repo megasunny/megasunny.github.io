@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com/megasunny/megasunny.github.io.git
+  branch: master

@@ -2170,7 +2170,7 @@ button,
         -webkit-flex-shrink: 0;
         -ms-flex-shrink: 0;
         flex-shrink: 0;
-        width: 100%; }
+        width: 120%; }
       #banner .image {
         -moz-flex-grow: 0;
         -webkit-flex-grow: 0;
@@ -2184,7 +2184,7 @@ button,
         height: 25em;
         max-height: 50vh;
         min-height: 18em;
-        width: 100%; } }
+        width: 80%; } }
   @media screen and (orientation: portrait) and (max-width: 480px) {
     #banner .image {
       max-height: 35vh; } }
